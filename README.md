@@ -44,6 +44,8 @@ Optional:
 Create your own MongoDB database and cluster and create your own users and orders databases. Then add your connection string to the app.py file.
 ![image](https://github.com/thefoenixweb/Automated-Whatsapp-clinic/assets/71729650/c28d4b42-da8b-4881-93ba-08be3196715c)
 
+Note: Make sure to put your password in your link there will be a space for it like this: "<Password>"
+
 
 Step 4: 
 Create a Twilio account(its free), go to your console, on the left-panel, you will see a two headings: "Develop" and "Monitor", click on develop then you will see a tab that says "messaging", click on it and you will get a dropdown-list. 
