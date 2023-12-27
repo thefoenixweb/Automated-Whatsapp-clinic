@@ -1,10 +1,10 @@
 Technologies Used:
 
-1.Python: Language
-2.Twilio: Virtual Number
-3.MongoDB: Database
-4.Whatsapp: Texting APP
-5.Heroku: Hosting
+*Python: Language
+*Twilio: Virtual Number
+*MongoDB: Database
+*Whatsapp: Texting APP
+*Heroku: Hosting
 
 Using Live Version:
 
