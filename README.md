@@ -18,6 +18,11 @@ Join Twilio Sandbox by texting "Join copy-silence" to Twilio contact
 Step 3:
 Proceed to communicate with bot.
 Demo video linK:
+https://youtu.be/T2KDWsZG3j8?si=-53A9caZIhN4sVyv
+
+Demo video part 2:
+If you say hello again or any other incorrect response.
+https://youtu.be/7ugiNH8BhM4?si=ViLXuyHQFK99Wj5-
 
 
 Running Local Version:
